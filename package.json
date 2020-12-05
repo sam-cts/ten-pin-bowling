@@ -1,0 +1,16 @@
+{
+  "name": "ten-pin-bowling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
